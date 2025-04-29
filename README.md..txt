@@ -18,4 +18,4 @@ Analyze sales data to understand revenue, profits, and trends across regions and
 - Higher discounts lead to reduced profits.	
 
 ## Dashboard Link
-(Add GitHub or Power BI Service link here)			
+(sales sample datastore project 1.pbix)			
