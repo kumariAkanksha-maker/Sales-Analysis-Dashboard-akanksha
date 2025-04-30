@@ -19,4 +19,4 @@ Analyze sales data to understand revenue, profits, and trends across regions and
 4. Sales in the East region are increasing steadily month over month.
 5. Customers who purchase during a holiday sale tend to buy more expensive items.
 ## Dashboard Link
-(sales sample datastore project 1.pbix)			
+https://github.com/kumariAkanksha-maker/Sales-Analysis-Dashboard-akanksha/commit/03c5ba07e1334dd26603d7cc01d80e9d5aad169e#diff-9104fbca8d7403a871d12f924278a1b0a4e8498aebc43d5e37fd192b8178f0e4		
