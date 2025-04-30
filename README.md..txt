@@ -13,9 +13,10 @@ Analyze sales data to understand revenue, profits, and trends across regions and
 - Renamed columns
 
 ## Insights
-- West region has highest sales.
-- Technology category is most profitable.
-- Higher discounts lead to reduced profits.	
-
+1. Region A has the highest sales but lowest profit margin.
+2. Product category X contributes to the most revenue.
+3. Discounts above 20% lead to drop in profit.
+4. Sales in the East region are increasing steadily month over month.
+5. Customers who purchase during a holiday sale tend to buy more expensive items.
 ## Dashboard Link
 (sales sample datastore project 1.pbix)			
